@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently studying in CQUPT and I am a computer sophomore ...
+- 🌱 I’m currently learning technologies related to Go language and I am still a beginner who expect to become excellence ...
 
 <!--
 **TechWzy/TechWzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
